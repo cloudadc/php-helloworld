@@ -1,4 +1,4 @@
 <?php
-print "Version is " . getenv("VERSION"); . "\n";
+print "Version is " . getenv("VERSION");
 ?>
 
