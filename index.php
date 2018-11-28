@@ -1,4 +1,4 @@
 <?php
-print "Version is " . getenv("VERSION");
+echo 'Current php version: ' . phpversion();
 ?>
 
